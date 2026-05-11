@@ -1,4 +1,4 @@
-# Project 1A — Multi-Step Loan Application Form
+# Multi-Step Loan Application Form
 **Zetheta Algorithms | Full Stack Engineer Internship**
 
 ## What This Is
